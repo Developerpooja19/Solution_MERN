@@ -1,0 +1,2 @@
+SHOW items from Customer table where orders>5;
+UPDATE Price from products table  FROM  PRICE TO INCREMENTED PRICE by 10%;
